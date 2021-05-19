@@ -1,0 +1,9 @@
+@import "./header.css";
+@import "./main.css";
+@import "./footer.css";
+
+
+.container {
+    margin: 0;
+    width: 100%;
+}

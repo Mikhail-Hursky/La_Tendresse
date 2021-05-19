@@ -1,0 +1,16 @@
+header {
+  width: 100%;
+  background-image:url("../assets/image/bg.jpg");  
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 470px;
+}
+
+.header_logo > img {
+  height: 300px;
+}
